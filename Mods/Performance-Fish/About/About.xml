@@ -8,7 +8,7 @@
 	</supportedVersions>
 	<author>bradson</author>
 	<modIconPath IgnoreIfNoMatchingField="True">PerformanceFish/ModIcon</modIconPath>
-	<url>https://github.com/bbradson/performance-fish</url>
+	<url>https://github.com/ProTriforcer/Performance-Fish</url>
 	<loadBefore>
 		<li>Dubwise.DubsPerformanceAnalyzer</li>
 		<li>Dubwise.DubsPerformanceAnalyzerButchered</li>
@@ -55,5 +55,5 @@
 		<li>VSE.OskarObnoxious</li> <!-- crashes reported -->
 		<li>vanillaexpanded.storytellers.rick</li> <!-- sussy -->
 	</incompatibleWith>
-	<description>download more tps</description>
+	<description>download more tps \n modified for HSK</description>
 </ModMetaData>
